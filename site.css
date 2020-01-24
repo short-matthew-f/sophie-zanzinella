@@ -80,6 +80,7 @@ footer .media-link {
 
 footer a {
   margin-right: 64px;
+  text-decoration: none;
 }
 
 footer a:last-child {
